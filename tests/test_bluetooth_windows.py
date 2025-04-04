@@ -4,22 +4,24 @@ import time
 import threading
 import sys
 
-BAUD_RATE = 115200
+BAUD_RATE = 9600
 RECONNECT_INTERVAL = 5  # seconds
 
 def find_esp32_port():
     """
-    Looks for a serial device with 'DIY_Presentation_Remote' in its description.
-    Update this if your device shows a different identifier.
+    Looks for a serial device with 'DIY_PRESENTATION_REMOTE' in its description.
     """
     ports = serial.tools.list_ports.comports()
     for port in ports:
-        if "DIY_Presentation_Remote" in port.description or "ESP32" in port.description:
+        print(f"Port: {port.device}, Description: {port.description}")  # Debugging line
+        if "DIY_PRESENTATION_REMOTE" in port.description:  # Update this line
             return port.device  # Returns something like 'COM3'
     return None
 
+
+
 def connect():
-    port = find_esp32_port()
+    port = "/dev/tty.DIY_Presentation_Remote"  # Default port for macOS
     if port is None:
         print("No suitable COM port found!")
         return None
@@ -50,16 +52,23 @@ def main():
             print(f"Retrying in {RECONNECT_INTERVAL} seconds...")
             time.sleep(RECONNECT_INTERVAL)
     
-    threading.Thread(target=read_from_port, args=(ser,), daemon=True).start()
-    
-    while True:
+    # threading.Thread(target=read_from_port, args=(ser,), daemon=True).start()
+    # read_from_port(ser)
+    i = 0
+    while i < 5:
         try:
+            print("Sent: PING")
             ser.write(b"PING\n")
             print("Sent: PING")
+            i +=1
+            
         except Exception as e:
             print("Error writing to serial:", e)
             break
         time.sleep(2)
+    
+    read_from_port(ser)
+    
 
 if __name__ == "__main__":
     main()

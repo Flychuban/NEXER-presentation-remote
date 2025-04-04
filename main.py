@@ -1,11 +1,7 @@
-#!/usr/bin/env python3
 import serial
 import pyautogui
 import time
-import sys
-import glob
 import threading
-import os
 from datetime import datetime
 
 # Configuration
@@ -35,7 +31,8 @@ def connect_to_esp32():
     global esp32, connected
     
     try:
-        port = "/dev/cu.DIY_Presentation_Remote"
+        # port = "COM3"  # Default port for Windows
+        port = "/dev/cu.DIY_Presentation_Remote" # Port for macOS
         if not port:
             log_event("No suitable port found. Please check your device connection.")
             return False
