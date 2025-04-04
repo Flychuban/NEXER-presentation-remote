@@ -1,0 +1,587 @@
+[2025-04-03 23:22:03] DIY Presentation Remote Receiver Starting
+[2025-04-03 23:22:03] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:22:03] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:22:03] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:03] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:06] Port opened: /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:06] Sending test PING
+[2025-04-03 23:22:16] No response received from test
+[2025-04-03 23:22:16] Port test failed. Device not responding correctly.
+[2025-04-03 23:22:16] Connected to ESP32 via /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:16] Sent PING handshake
+[2025-04-03 23:22:26] No handshake response received
+[2025-04-03 23:22:26] Sent PING handshake
+[2025-04-03 23:22:36] Sent keepalive ping
+[2025-04-03 23:22:36] No handshake response received
+[2025-04-03 23:22:36] Sent PING handshake
+[2025-04-03 23:22:47] No handshake response received
+[2025-04-03 23:22:47] No ping response, reconnecting...
+[2025-04-03 23:22:47] Proceeding with connection despite handshake issues
+[2025-04-03 23:22:47] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:22:47] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:22:47] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:47] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:47] Port opened: /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:47] Sending test PING
+[2025-04-03 23:22:57] No response received from test
+[2025-04-03 23:22:57] Port test failed. Device not responding correctly.
+[2025-04-03 23:22:57] Connected to ESP32 via /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:22:57] Sent PING handshake
+[2025-04-03 23:22:57] No handshake response received
+[2025-04-03 23:22:57] Sent PING handshake
+[2025-04-03 23:22:58] No handshake response received
+[2025-04-03 23:22:58] Sent PING handshake
+[2025-04-03 23:22:58] No handshake response received
+[2025-04-03 23:22:58] Proceeding with connection despite handshake issues
+[2025-04-03 23:23:37] Sent keepalive ping
+[2025-04-03 23:23:37] No ping response, reconnecting...
+[2025-04-03 23:23:37] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:23:37] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:23:37] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:37] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:37] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:37] Port test failed. Device not responding correctly.
+[2025-04-03 23:23:37] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:37] Will try to reconnect in 5 seconds...
+[2025-04-03 23:23:42] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:23:42] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:23:42] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:42] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:42] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:42] Port test failed. Device not responding correctly.
+[2025-04-03 23:23:42] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:42] Will try to reconnect in 5 seconds...
+[2025-04-03 23:23:47] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:23:47] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:23:47] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:47] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:47] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:47] Port test failed. Device not responding correctly.
+[2025-04-03 23:23:47] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:47] Will try to reconnect in 5 seconds...
+[2025-04-03 23:23:52] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:23:52] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:23:52] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:52] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:52] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:52] Port test failed. Device not responding correctly.
+[2025-04-03 23:23:52] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:52] Will try to reconnect in 5 seconds...
+[2025-04-03 23:23:57] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:23:57] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:23:57] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:57] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:23:57] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:57] Port test failed. Device not responding correctly.
+[2025-04-03 23:23:57] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:23:57] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:02] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:02] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:02] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:02] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:02] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:02] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:02] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:02] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:07] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:07] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:07] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:07] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:07] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:07] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:07] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:07] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:12] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:12] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:12] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:12] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:12] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:12] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:12] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:12] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:17] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:17] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:17] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:17] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:17] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:17] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:17] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:17] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:22] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:22] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:22] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:22] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:22] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:22] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:22] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:22] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:27] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:27] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:27] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:27] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:27] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:27] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:27] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:27] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:32] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:32] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:32] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:32] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:32] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:32] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:32] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:32] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:37] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:37] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:37] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:37] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:37] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:37] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:37] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:37] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:42] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:42] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:42] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:42] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:42] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:42] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:42] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:42] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:47] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:47] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:47] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:47] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:47] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:47] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:47] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:47] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:52] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:52] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:52] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:52] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:52] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:52] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:52] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:52] Will try to reconnect in 5 seconds...
+[2025-04-03 23:24:57] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:24:57] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:24:57] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:57] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:24:57] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:57] Port test failed. Device not responding correctly.
+[2025-04-03 23:24:57] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:24:57] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:02] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:02] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:02] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:02] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:02] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:02] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:02] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:02] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:07] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:07] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:07] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:07] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:07] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:07] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:07] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:07] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:12] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:12] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:12] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:12] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:12] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:12] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:12] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:12] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:17] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:17] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:17] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:17] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:17] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:17] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:17] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:17] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:22] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:22] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:22] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:22] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:22] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:22] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:22] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:22] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:27] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:27] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:27] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:27] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:27] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:27] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:27] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:27] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:32] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:32] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:32] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:32] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:32] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:32] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:32] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:32] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:37] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:37] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:37] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:37] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:37] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:37] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:37] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:37] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:42] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:42] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:42] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:42] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:42] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:42] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:42] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:42] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:47] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:47] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:47] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:47] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:47] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:47] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:47] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:47] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:52] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:52] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:52] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:52] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:52] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:52] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:52] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:52] Will try to reconnect in 5 seconds...
+[2025-04-03 23:25:57] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:25:57] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:25:57] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:57] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:25:57] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:57] Port test failed. Device not responding correctly.
+[2025-04-03 23:25:57] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:25:57] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:02] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:02] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:02] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:02] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:02] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:02] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:02] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:02] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:07] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:07] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:07] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:07] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:07] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:07] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:07] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:07] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:12] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:12] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:12] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:12] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:12] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:12] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:12] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:12] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:18] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:18] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:18] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:18] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:18] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:18] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:18] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:18] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:23] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:23] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:23] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:23] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:23] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:23] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:23] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:23] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:28] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:28] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:28] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:28] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:28] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:28] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:28] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:28] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:33] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:33] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:33] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:33] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:33] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:33] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:33] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:33] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:38] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:38] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:38] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:38] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:38] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:38] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:38] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:38] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:43] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:43] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:43] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:43] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:43] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:43] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:43] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:43] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:48] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:48] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:48] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:48] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:48] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:48] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:48] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:48] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:53] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:53] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:53] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:53] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:53] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:53] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:53] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:53] Will try to reconnect in 5 seconds...
+[2025-04-03 23:26:58] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:26:58] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:26:58] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:58] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:26:58] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:58] Port test failed. Device not responding correctly.
+[2025-04-03 23:26:58] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:26:58] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:03] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:03] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:03] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:03] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:03] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:03] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:03] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:03] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:08] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:08] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:08] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:08] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:08] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:08] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:08] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:08] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:13] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:13] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:13] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:13] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:13] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:13] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:13] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:13] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:18] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:18] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:18] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:18] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:18] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:18] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:18] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:18] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:23] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:23] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:23] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:23] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:23] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:23] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:23] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:23] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:28] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:28] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:28] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:28] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:28] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:28] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:28] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:28] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:33] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:33] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:33] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:33] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:33] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:33] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:33] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:33] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:38] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:38] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:38] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:38] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:38] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:38] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:38] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:38] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:43] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:43] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:43] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:43] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:43] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:43] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:43] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:43] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:48] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:48] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:48] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:48] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:48] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:48] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:48] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:48] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:53] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:53] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:53] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:53] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:53] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:53] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:53] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:53] Will try to reconnect in 5 seconds...
+[2025-04-03 23:27:58] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:27:58] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:27:58] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:58] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:27:58] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:58] Port test failed. Device not responding correctly.
+[2025-04-03 23:27:58] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:27:58] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:03] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:03] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:03] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:03] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:03] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:03] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:03] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:03] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:08] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:08] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:08] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:08] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:08] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:08] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:08] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:08] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:13] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:13] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:13] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:13] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:13] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:13] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:13] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:13] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:18] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:18] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:18] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:18] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:18] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:18] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:18] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:18] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:23] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:23] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:23] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:23] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:23] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:23] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:23] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:23] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:28] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:28] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:28] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:28] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:28] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:28] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:28] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:28] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:33] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:33] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:33] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:33] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:33] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:33] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:33] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:33] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:38] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:38] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:38] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:38] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:38] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:38] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:38] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:38] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:43] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:43] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:43] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:43] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:43] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:43] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:43] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:43] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:48] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:48] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:48] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:48] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:48] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:48] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:48] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:48] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:53] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:28:53] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:28:53] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:53] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:28:53] Test connection error on /dev/cu.DIY_Presentation_Remote: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:53] Port test failed. Device not responding correctly.
+[2025-04-03 23:28:53] Connection error: [Errno 16] could not open port /dev/cu.DIY_Presentation_Remote: [Errno 16] Resource busy: '/dev/cu.DIY_Presentation_Remote'
+[2025-04-03 23:28:53] Will try to reconnect in 5 seconds...
+[2025-04-03 23:28:56] Program terminated by user
+[2025-04-03 23:28:56] Program exited
+[2025-04-03 23:32:08] DIY Presentation Remote Receiver Starting
+[2025-04-03 23:32:08] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:32:08] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:32:08] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:32:08] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:32:09] Port opened: /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:32:09] Sending test PING
+[2025-04-03 23:32:10] No response received from test
+[2025-04-03 23:32:40] Port test failed. Device not responding correctly.
+[2025-04-03 23:32:40] Connected to ESP32 via /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:32:40] Sent PING handshake
+[2025-04-03 23:32:41] No handshake response received
+[2025-04-03 23:32:41] Sent PING handshake
+[2025-04-03 23:32:41] No handshake response received
+[2025-04-03 23:32:41] Sent PING handshake
+[2025-04-03 23:32:42] No handshake response received
+[2025-04-03 23:32:42] Proceeding with connection despite handshake issues
+[2025-04-03 23:33:18] Sent keepalive ping
+[2025-04-03 23:33:19] No ping response, reconnecting...
+[2025-04-03 23:33:19] Scanning for ESP32 Bluetooth device...
+[2025-04-03 23:33:19] Available ports: /dev/cu.debug-console, /dev/cu.DIY_Presentation_Remote, /dev/cu.BeatsStudio, /dev/cu.Bluetooth-Incoming-Port, /dev/cu.usbserial-2130, /dev/tty.debug-console, /dev/tty.DIY_Presentation_Remote, /dev/tty.BeatsStudio, /dev/tty.Bluetooth-Incoming-Port, /dev/tty.usbserial-2130
+[2025-04-03 23:33:19] Found ESP32 at /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:33:19] Attempting to connect to /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:33:19] Port opened: /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:33:19] Sending test PING
+[2025-04-03 23:33:20] No response received from test
+[2025-04-03 23:33:20] Port test failed. Device not responding correctly.
+[2025-04-03 23:33:20] Connected to ESP32 via /dev/cu.DIY_Presentation_Remote
+[2025-04-03 23:33:20] Sent PING handshake
+[2025-04-03 23:33:20] No handshake response received
+[2025-04-03 23:33:20] Sent PING handshake
+[2025-04-03 23:33:21] No handshake response received
+[2025-04-03 23:33:21] Sent PING handshake
+[2025-04-03 23:33:21] No handshake response received
+[2025-04-03 23:33:21] Proceeding with connection despite handshake issues
+[2025-04-03 23:33:32] Program terminated by user

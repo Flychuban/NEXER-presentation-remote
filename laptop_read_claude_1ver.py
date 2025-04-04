@@ -20,36 +20,6 @@ connected = False
 last_command_time = time.time()
 exit_flag = False
 
-def find_bluetooth_port():
-    """Scan for available ports and return the likely ESP32 port"""
-    print("Scanning for ESP32 device...")
-    
-    if sys.platform.startswith('darwin'):  # macOS
-        ports = glob.glob('/dev/cu.*')
-        esp32_ports = [p for p in ports if 'DIY_Presentation_Remote' in p or 'ESP32' in p or 'Bluetooth' in p]
-    elif sys.platform.startswith('win'):   # Windows
-        ports = ['COM%s' % (i + 1) for i in range(256)]
-        esp32_ports = []
-        for port in ports:
-            try:
-                s = serial.Serial(port)
-                s.close()
-                esp32_ports.append(port)
-            except (OSError, serial.SerialException):
-                pass
-    else:  # Linux
-        ports = glob.glob('/dev/tty[A-Za-z]*')
-        esp32_ports = [p for p in ports if 'rfcomm' in p or 'ACM' in p or 'Bluetooth' in p]
-    
-    if esp32_ports:
-        print(f"Potential ESP32 ports found: {esp32_ports}")
-        return esp32_ports[0]  # Return the first potential match
-    
-    print("No ESP32 device found. Available ports:")
-    for port in ports:
-        print(f"  {port}")
-    return None
-
 def log_event(message):
     """Log events with timestamp"""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -196,3 +166,4 @@ def main():
         log_event("Program exited")
 
 main()
+
